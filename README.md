@@ -1,5 +1,7 @@
 👋 Hi, I’m @mavhungu
+
 👀 I’m interested Full Stack Development
+
 🌱 I’m currently leaning ReactJS
 💞️ I’m looking to collaborate on ...
 📫 How to reach me ...
