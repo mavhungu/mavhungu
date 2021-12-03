@@ -12,6 +12,7 @@
 ## Language and Tools
 
 <img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img alt="CSS3" title="CSS3" width="45px" src="https://img.icons8.com/color/48/00000/css3.png" />
 
 
 <!---
