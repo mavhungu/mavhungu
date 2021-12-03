@@ -12,7 +12,10 @@
 ## Language and Tools
 
 <img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img alt="CSS3" title="CSS3" width="45px" src="https://img.icons8.com/color/48/00000/css3.png" />
+<img alt="CSS3" title="CSS3" width="45px" src="https://img.icons8.com/color/48/00000/css3.png"/>
+<img alt="CSS3" title="CSS" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img alt="Bootstrap" title="Bootstrap" width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img alt="Sass" title="Saas" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
 <!---
