@@ -23,7 +23,7 @@
 <img alt="mongodb" title="MongoDB" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  <img alt="php" title="Php" width="45px" src="https://img.icons8.com/color/48/000000/php.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-  <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
   
    <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img alt="React" title="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
