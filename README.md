@@ -1,4 +1,4 @@
-# Hello, I'm Ronewa! 👋
+# Hello, I'm Ronewa! 👋🏿 
 👀 I'm a Full Stack Developer at [Spinac Systems](https://spinac.co.za)
 
 💞️ I’m interested Full Stack Development
