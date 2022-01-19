@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Full Stack developer from South Africa</h3>
 
-🔭 I’m currently working on [Schedule-app](https://ronewa-schedule.herokuapp.com/)
-
 💞️ I’m interested Full Stack Development
+
+🔭 I’m currently working on [Schedule-app](https://ronewa-schedule.herokuapp.com/)
 
 🌱 I’m currently leaning **ReactJS**
 
