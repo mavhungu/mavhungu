@@ -13,9 +13,9 @@
 <div class="center">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<!--img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<img alt="CSS3" title="CSS3" width="45px" src="https://img.icons8.com/color/48/00000/css3.png"/>
+<!--img alt="CSS3" title="CSS3" width="45px" src="https://img.icons8.com/color/48/00000/css3.png"/-->
 <img alt="Bootstrap" title="Bootstrap" width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img alt="Sass" title="Saas" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
