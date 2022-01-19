@@ -20,7 +20,6 @@
 
 <a href="https://twitter.com/mavhungurgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavhungurgb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mavhungu-ronewa-8687b7103" height="30" width="40" /></a>
-<a href="https://fb.com/ronewa.gilbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronewa.gilbert" height="30" width="40" /></a>
 <a href="https://instagram.com/r_mavhungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_mavhungu" height="30" width="40" /></a>
 
 ## Language and Tools :
