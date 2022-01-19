@@ -3,11 +3,16 @@
 
 💞️ I’m interested Full Stack Development
 
-🌱 I’m currently leaning ReactJS
+🌱 I’m currently leaning **ReactJS**
 
 📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.
 
 # My Portfolio - [🌐](https://ronewam.netlify.app)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mavhungurgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavhungurgb" height="30" width="40" /></a>
+</p>
 
 ## Language and Tools :
 <div class="center">
