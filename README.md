@@ -1,5 +1,7 @@
 # Hello 👋🏿 , I'm Mavhungu Ronewa!
+
 <h3 align="center">A passionate Full Stack developer from South Africa</h3>
+
 👀 I'm a Full Stack Developer at [Spinac Systems](https://spinac.co.za)
 
 💞️ I’m interested Full Stack Development
