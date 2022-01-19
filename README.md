@@ -16,8 +16,6 @@
 
 ⚡ Fun fact **I think i'm a cool guy**
 
-# My Portfolio - [🌐](https://ronewam.netlify.app)
-
 ## Connect with me :
 
 <a href="https://twitter.com/mavhungurgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavhungurgb" height="30" width="40" /></a>
