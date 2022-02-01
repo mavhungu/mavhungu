@@ -8,8 +8,6 @@
 
 🌱 I’m currently leaning **ReactJS**
 
-👨‍💻 All of my projects are available at [https://ronewam.netlify.app](https://ronewam.netlify.app)
-
 📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.
 
 ⚡ Fun fact **I think i'm a cool guy**
