@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [Schedule-app](https://ronewa-schedule.herokuapp.com/)
 
-🌱 I’m currently leaning **ReactJS**
+🌱 I’m currently leaning **NextJS**
 
 📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.
 
