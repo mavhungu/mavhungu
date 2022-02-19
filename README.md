@@ -16,9 +16,9 @@
 
 ## Connect with me :
 
-<a href="https://twitter.com/mavhungurgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mavhungurgb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mavhungu-ronewa-8687b7103" height="30" width="40" /></a>
-<a href="https://instagram.com/r_mavhungu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_mavhungu" height="30" width="40" /></a>
+<a href="https://twitter.com/mavhungurgb" target="blank"><img src="https://img.shields.io/badge/moodyomarz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mavhungurgb"></a>
+<a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mavhungu-ronewa"></a>
+<a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/moodyomarz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a>
 
 ## Language and Tools :
 <div class="center">
