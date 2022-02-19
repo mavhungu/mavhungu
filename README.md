@@ -16,9 +16,9 @@
 
 ## Connect with me :
 
-<a href="https://twitter.com/mavhungurgb" target="blank"><img src="https://img.shields.io/badge/moodyomarz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mavhungurgb"></a>
+<a href="https://twitter.com/mavhungurgb" target="blank"><img src="https://img.shields.io/badge/mavhungurgb-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mavhungurgb"></a>
 <a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mavhungu-ronewa"></a>
-<a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/moodyomarz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a>
+<a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/r_mavhungu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a>
 
 ## Language and Tools :
 <div class="center">
