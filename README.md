@@ -48,8 +48,7 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavhungu&show_icons=true&locale=en&layout=compact" alt="mavhungu" /></p>
 
-[![Visits Badge]
-(https://badges.pufler.dev/visits/mavhungu/mavhungu)]
+[![Visits Badge](https://badges.pufler.dev/visits/mavhungu/mavhungu)]
 
 <!---
 mavhungu/mavhungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
