@@ -48,6 +48,7 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavhungu&show_icons=true&locale=en&layout=compact" alt="mavhungu" /></p>
 [![Repos Badge](https://badges.pufler.dev/repos/mavhungu)](https://badges.pufler.dev)
+
 [![Visits Badge](https://badges.pufler.dev/visits/mavhungu/mavhungu)](https://badges.pufler.dev)
 
 <!---
