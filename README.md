@@ -6,11 +6,11 @@
 
 🔭 I’m currently working on [Schedule-app](https://ronewa-schedule.herokuapp.com/)
 
-👨‍💻 All of my projects are available at [https://ronewam.netlify.app](https://ronewam.netlify.app)
+<!--👨‍💻 All of my projects are available at [https://ronewam.netlify.app](https://ronewam.netlify.app)-->
 
 🌱 I’m currently leaning **NextJS**
 
-📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.
+<!--📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.-->
 
 ⚡ Fun fact **I think i'm a cool guy**
 
@@ -18,7 +18,7 @@
 
 <a href="https://twitter.com/mavhungurgb" target="blank"><img src="https://img.shields.io/badge/mavhungurgb-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mavhungurgb"></a>
 <a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mavhungu-ronewa"></a>
-<a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/r_mavhungu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a>
+<!--a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/r_mavhungu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a-->
 
 ## Language and Tools :
 <div class="center">
