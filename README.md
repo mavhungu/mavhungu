@@ -4,7 +4,7 @@
 
 💞️ I’m interested Full Stack Development
 
-🔭 I’m currently working on [Medicine-dose-tracker-app](https://ronewa-medicine-tracker.herokuapp.com/)
+<!--🔭 I’m currently working on [Medicine-dose-tracker-app](https://ronewa-medicine-tracker.herokuapp.com/)-->
 
 <!--👨‍💻 All of my projects are available at [https://ronewam.netlify.app](https://ronewam.netlify.app)-->
 
