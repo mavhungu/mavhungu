@@ -1,57 +1,75 @@
-# Hello 👋🏿 , I'm Mavhungu Ronewa!
+# Hi, I'm Mavhungu Ronewa 👋🏾
 
-<h3 align="center">A passionate Full Stack developer from South Africa</h3>
+**Full-Stack Developer** based in Pretoria, South Africa  
+6 years in enterprise environments | PHP · Angular · React · JavaScript  
+Currently transitioning into a dedicated developer role full-time
 
-💞️ I’m interested Full Stack Development
+---
 
-<!--🔭 I’m currently working on [Medicine-dose-tracker-app](https://ronewa-medicine-tracker.herokuapp.com/)-->
+## 🛠 Tech Stack
 
-<!--👨‍💻 All of my projects are available at [https://ronewam.netlify.app](https://ronewam.netlify.app)-->
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-🌱 I’m currently leaning **NextJS**
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<!--📫 Please reach me at [@mavhungurgb](https://twitter.com/MavhunguRgb) on Twitter.-->
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-⚡ Fun fact **I think i'm a cool guy**
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Connect with me :
+---
 
-<a href="https://twitter.com/mavhungurgb" target="blank"><img src="https://img.shields.io/badge/mavhungurgb-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mavhungurgb"></a>
-<a href="https://linkedin.com/in/mavhungu-ronewa-8687b7103" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mavhungu-ronewa"></a>
-<!--a href="https://instagram.com/r_mavhungu" target="blank"><img src="https://img.shields.io/badge/r_mavhungu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="r_mavhungu"> </a-->
+## 🚀 Projects
 
-## Language and Tools :
-<div class="center">
-  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<img alt="Bootstrap" title="Bootstrap" width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img alt="Sass" title="Saas" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img alt="Nodejs" title="Nodejs" width="45px" src="https://img.icons8.com/color/54087/nodejs.png"/>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<img alt="React" title="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="45" height="40"/>
-</a>
+### 🛒 SpazaStock — Spaza Shop Inventory Manager *(in progress)*
+Mobile-first inventory management app built for South African spaza shop owners  
+**Laravel REST API · React · shadcn/ui · Tailwind CSS · MySQL · Docker**  
+🔗 [Live Demo](#) · [View Repo](#)
 
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavhungu&show_icons=true&locale=en&layout=compact" alt="mavhungu" /></p>
+### 🌿 Wego Enviro Solution — Corporate Website
+Responsive corporate website built independently from brief to deployment  
+**HTML5 · CSS3 · JavaScript**  
+🔗 [Live Site](https://wegoenviro.com)
 
-<!--[![Years Badge](https://badges.pufler.dev/years/mavhungu)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/mavhungu)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/mavhungu/mavhungu)](https://badges.pufler.dev)-->
+### 💼 Personal Portfolio
+Full-stack portfolio with Google reCAPTCHA and Telegram bot integration  
+**Next.js · JavaScript**  
+🔗 [Live Site](https://ronewam.vercel.app)
 
-<!---
-mavhungu/mavhungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📚 Education & Certifications
+
+🎓 BSc Computer Science — University of Venda, 2017  
+☁️ Microsoft Azure Fundamentals AZ-900 — Microsoft, 2023  
+🖥️ Back End Development and APIs — freeCodeCamp, 2022
+
+---
+
+## 📍 Currently
+
+- 🔨 Building **SpazaStock** — Laravel + React, committing weekly
+- 📖 Learning **TypeScript** actively
+- 👀 **Open to remote / hybrid full-stack developer roles** across South Africa
+- 📬 ronewamavhungu@gmail.com
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ronewam.vercel.app)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/mavhungurgb)
