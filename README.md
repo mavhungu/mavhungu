@@ -56,9 +56,9 @@ Full-stack portfolio with Google reCAPTCHA and Telegram bot integration
 
 ## 📚 Education & Certifications
 
-🎓 BSc Computer Science — University of Venda, 2017  
-☁️ Microsoft Azure Fundamentals AZ-900 — Microsoft, 2023  
-🖥️ Back End Development and APIs — freeCodeCamp, 2022
+🎓 BSc Computer Science — University of Venda 
+☁️ Microsoft Azure Fundamentals AZ-900 — Microsoft 
+🖥️ Back End Development and APIs — freeCodeCamp
 
 ---
 
